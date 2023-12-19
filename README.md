@@ -1,5 +1,15 @@
-### Hi there 👋
+### Adrian Netto
+---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F1FAE&random=false&width=435&lines=Software+Engineering+Student)](https://git.io/typing-svg)
+
+- 🔭 I’m currently working on __*MM Tecnologia*__
+
+- 🌱 I’m currently learning __*JavaScript*__
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F1FAE&random=false&width=435&lines=Technologies)](https://git.io/typing-svg)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
 <!--
 **AdrianNetto/AdrianNetto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
