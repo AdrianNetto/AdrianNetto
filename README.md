@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on __*MM Tecnologia em Análise e Desenvolvimento de Sistemas*__
 
-- 🌱 I’m currently learning __*TypeScript*__ and __*Jest*__
+- 🌱 I’m currently learning __*TypeScript*__ and __*React*__
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F1FAE&random=false&width=435&lines=Technologies)](https://git.io/typing-svg)
 
