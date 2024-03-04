@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=92408F&random=false&width=435&lines=Adrian+Netto" alt="Typing SVG" /></a>
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F1FAE&random=false&width=435&lines=Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F1FAE&random=false&width=435&lines=Software+Developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on __*MM Tecnologia em Análise e Desenvolvimento de Sistemas*__
 
