@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **_MM Tecnologia em Análise e Desenvolvimento de Sistemas_**
 
-- 🌱 I’m currently learning **_Next_** and **_React_**
+- 🌱 I’m currently learning **_Nest_** and **_Machine Learning_**
 
 <br>
 
