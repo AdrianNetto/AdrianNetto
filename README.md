@@ -5,7 +5,7 @@
 </p>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="330" width="400" alt="GIF" src="https://camo.githubusercontent.com/2347d88b80124a1300b43dafd4a012e6f78778348e116f0f5279237c1f48753a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313030302f302a78796a6c7472783062776a6e325a43752e676966">
+  <img align="right" top="500" height="330" width="400" alt="GIF" src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif">
 </a>
 
 - 🔭 I’m currently working on **_MM Tecnologia em Análise e Desenvolvimento de Sistemas_**
