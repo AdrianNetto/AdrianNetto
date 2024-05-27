@@ -45,13 +45,6 @@
    ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-- **Cloud Hosting**:
-
-    ![Nginx](https://img.shields.io/badge/Nginx%20-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-    ![DigitalOcean](https://img.shields.io/badge/digitalocean%20-%230080FF.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
-
-
 - **Softwares and Tools**:
 
     ![Docker](https://img.shields.io/badge/Docker%20-%23327FC7.svg?style=for-the-badge&logo=docker&logoColor=white)
