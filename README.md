@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **_MM Tecnologia em Análise e Desenvolvimento de Sistemas_**
 
-- 🌱 I’m currently learning **_NestJS_**
+- 🌱 I’m currently learning **_ReactJS_**
 
 <br>
 
