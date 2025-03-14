@@ -78,7 +78,7 @@
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> 
-  <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Se+cair,+levante!+A+luta+só+acaba+quando+você+decide+desistir.&author=Matue+Kamogawa">
+  <img alt="Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=Se+cair,+levante!+A+luta+só+acaba+quando+você+decide+desistir.&author=Genji+Kamogawa">
 </a>
 
 </p>
