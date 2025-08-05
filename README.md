@@ -8,8 +8,6 @@
   <img align="right" top="500" height="330" width="400" alt="GIF" src="https://i.pinimg.com/originals/a2/b4/ae/a2b4ae4ebabcd10ff10a1581366f6df2.gif">
 </a>
 
-- 🔭 I’m currently working on **_MM Tecnologia em Análise e Desenvolvimento de Sistemas_**
-
 - 🌱 I’m currently learning **_Python_**
 
 <br>
