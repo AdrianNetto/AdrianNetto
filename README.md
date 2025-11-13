@@ -81,12 +81,3 @@
 
 </p>
 
-
-<div align="center"  class="icons-social" style="margin-left: 10px;">
-
-### Visitor Count
- ![Visitor Count](https://profile-counter.glitch.me/{AdrianNetto}/count.svg)
-        <h1>Contact Me</h1>
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/adrian-netto-b06243278/" target="_blank">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-</div>
