@@ -14,7 +14,7 @@
 
 <div align="center">
 <a href="https://github.com/AdrianNetto">
-<img loading="lazy" height="200em" src="github-readme-stats-olive-eta.vercel.app/api/top-langs/?username=AdrianNetto&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="200em" src="https://github-readme-stats-olive-eta.vercel.app/api/top-langs/?username=AdrianNetto&layout=compact&langs_count=7&theme=dracula"/>
 	
 </div>
 
